@@ -1,0 +1,1 @@
+#Change target name to folder’s name that file will be place intarget 'Wk8Ex2' do  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks  use_frameworks!  # Pods to install  pod 'Firebase/Core'  pod 'Firebase/Auth’  pod 'Firebase/Database'  pod 'Firebase/Storage'  pod 'Firebase/Messaging'
